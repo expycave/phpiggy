@@ -19,3 +19,6 @@ files/tmp/*
 
 # ignore sitemap.xml
 /sitemap.xml
+
+
+imaginary-file.txt
